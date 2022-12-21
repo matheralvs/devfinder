@@ -16,12 +16,12 @@ export const HomeContainer = styled.div`
   }
 
   @media (max-width: 430px) {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
   }
 
   @media (max-width: 380px) {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
+    margin-top: 12rem;
+    margin-bottom: 12rem;
   }
 `;
